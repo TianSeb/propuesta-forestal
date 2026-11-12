@@ -504,7 +504,6 @@ export default function App() {
                   {/* Badges de características */}
                   <div className="flex flex-wrap gap-1.5 justify-center w-full pt-3 mt-2 border-t border-[#2A5A3B]/20">
                     <span className="text-[10px] font-bold bg-[#2A5A3B]/10 text-[#2A5A3B] px-2.5 py-0.5 rounded-md">100% Offline</span>
-                    <span className="text-[10px] font-bold bg-[#2A5A3B]/10 text-[#2A5A3B] px-2.5 py-0.5 rounded-md">Geolocalización</span>
                     <span className="text-[10px] font-bold bg-[#2A5A3B]/10 text-[#2A5A3B] px-2.5 py-0.5 rounded-md">Firma Digital</span>
                   </div>
                 </div>
@@ -548,7 +547,7 @@ export default function App() {
 
                   {/* Badges de características */}
                   <div className="flex flex-wrap gap-1.5 justify-center w-full pt-3 mt-2 border-t border-[#A4BDA7]/30">
-                    <span className="text-[10px] font-bold bg-white text-[#648A6F] border border-[#A4BDA7]/40 px-2.5 py-0.5 rounded-md">Horómetros</span>
+                    <span className="text-[10px] font-bold bg-white text-[#648A6F] border border-[#A4BDA7]/40 px-2.5 py-0.5 rounded-md">Control Combustible</span>
                     <span className="text-[10px] font-bold bg-white text-[#648A6F] border border-[#A4BDA7]/40 px-2.5 py-0.5 rounded-md">Alertas Service</span>
                   </div>
                 </div>
@@ -585,7 +584,7 @@ export default function App() {
                   </div>
                   <div>
                     <h4 className="font-bold text-[#1E1E1E] text-xs sm:text-sm font-heading">Ecosistema Integrado y Escalable</h4>
-                    <p className="text-[11px] sm:text-xs text-[#1E1E1E]/70">Cada nuevo módulo se acopla a la base operativa, protegiendo su inversión y evolucionando con la empresa.</p>
+                    <p className="text-[11px] sm:text-xs text-[#1E1E1E]/70">Cada nuevo módulo se acopla a la base operativa, evolucionando con la empresa.</p>
                   </div>
                 </div>
                 <span className="text-xs font-bold text-[#2A5A3B] bg-[#A4BDA7]/25 px-3.5 py-1 rounded-full whitespace-nowrap">
