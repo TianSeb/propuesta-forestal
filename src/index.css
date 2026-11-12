@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-yoiki-dark: #2A5A3B;
+  --color-yoiki-dosel: #648A6F;
+  --color-yoiki-brisa: #A4BDA7;
+  --color-yoiki-carbon: #1E1E1E;
+  --color-yoiki-nube: #F8F9FA;
+
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-yoiki-nube);
+  color: var(--color-yoiki-carbon);
+}
+
+h1, h2, h3, h4, .font-heading {
+  font-family: var(--font-heading);
+}
