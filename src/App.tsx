@@ -669,11 +669,11 @@ export default function App() {
                     <ul className="space-y-3.5 text-sm text-white/90">
                       <li className="flex items-start gap-3">
                         <CheckCircle2 className="w-5 h-5 text-[#648A6F] flex-shrink-0 mt-0.5" />
-                        <span className="font-semibold text-white">Desarrollo y adaptación ágil y continua.</span>
+                        <span className="font-semibold text-white">Desarrollo ágil y continuo.</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <CheckCircle2 className="w-5 h-5 text-[#648A6F] flex-shrink-0 mt-0.5" />
-                        <span>Mantenimiento y soporte técnico ante eventualidades en monte.</span>
+                        <span>Mantenimiento y soporte técnico.</span>
                       </li>
                       <li className="flex items-start gap-3">
                         <CheckCircle2 className="w-5 h-5 text-[#648A6F] flex-shrink-0 mt-0.5" />
